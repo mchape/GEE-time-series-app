@@ -1,4 +1,4 @@
-# LobeliaSharedCode
+# GEE Time Seris App
 This repository includes the codes used for the app https://miguelchapela92.users.earthengine.app/view/time-series
 
 main.js contains the main body of the app. It adds the panel, widgets and actions to take when cliking the run button
